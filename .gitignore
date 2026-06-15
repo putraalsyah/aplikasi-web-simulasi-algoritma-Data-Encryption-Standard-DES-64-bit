@@ -1,0 +1,6 @@
+# 1. Buat .gitignore
+echo ".venv/
+{static/
+__pycache__/
+*.pyc
+.env" > .gitignore
