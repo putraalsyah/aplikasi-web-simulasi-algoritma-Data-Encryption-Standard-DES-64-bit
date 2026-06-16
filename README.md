@@ -1,6 +1,7 @@
 # 🔐 DES Simulator — Web Simulasi Data Encryption Standard
 
 Aplikasi web interaktif untuk mensimulasikan algoritma **Data Encryption Standard (DES)** secara lengkap dan transparan, mulai dari Key Schedule hingga 16 putaran Feistel.
+www.desputraaliansyah.my.id
 
 > **Tugas Mata Kuliah Kriptografi — Semester Genap 2025/2026**
 
